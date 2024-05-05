@@ -1,0 +1,7 @@
+bs4
+chromadb
+langchain
+langchain-community
+langchain-core
+streamlit
+tiktoken
